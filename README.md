@@ -1,1 +1,3 @@
-# ts-connector-starter
+# 🧰 Simple TypeScript Connector Starter 
+
+TBD
