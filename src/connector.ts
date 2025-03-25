@@ -20,7 +20,7 @@ export class Connector extends VendorConnector {
      * Returns the Telephony Connector (if implemented)
      */
     getTelephonyConnector() {
-        return Promise.resolve(new TelephonyConnector());
+        return Promise.resolve(new PhoneConnector());
     }
     /**
      * Called by SFDC to initialize the connector
